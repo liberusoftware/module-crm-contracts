@@ -1,0 +1,5 @@
+{"name":"liberusoftware/module-crm-contracts","type":"liberu-module","autoload":{"psr-4":{"Liberu\\CRM\\Contracts\\":"src/"}},"extra":{"laravel":{"providers":["Liberu\\CRM\\Contracts\\ContractsServiceProvider"]},"liberu":{"name":"crm-contracts"}},
+    "require": {
+        "liberusoftware/module-organizations-teams": "^1.0"
+    }
+}
